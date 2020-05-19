@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootContacts
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: panka
+Implementation-Vendor-Id: com.testapp
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootCo
+ ntacts/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
